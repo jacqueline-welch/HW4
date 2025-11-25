@@ -1,5 +1,7 @@
 # Assassin's Creed 
-> NOTE: Much of the wording is taken from the wiki, as the content doesn't matter as much as the markdown itself.
+<img width="435" height="209" alt="Assassin&#39;s_Creed_Logo svg" src="https://github.com/user-attachments/assets/a6a3ec1b-152c-4e61-bdfe-b1b4ca62e6b6" />
+
+> NOTE: Much of the wording for these pages is taken from wikipedia, as well as the fandom wiki, as the content doesn't matter as much as the markdown itself.
 
 _Assassin's Creed_ is a historical action-adventure video game series developed mainly by Ubisoft Montreal and published by Ubisoft. The series depicts a fictional millennia-old struggle between the [Assassin Brotherhood](assassin_brotherhood.md), who fight for peace and free will, and the [Templar Order](templar_order.md), who desire power through order and control. The series features historical fiction, science fiction, and fictional characters intertwined with real-world historical events and historical figures. In most games, players control an historical Assassin in a specific time period while also playing as an Assassin Initiate in the present day, switching between the two as the game progresses.
 
