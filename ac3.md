@@ -1,7 +1,8 @@
 # Assassin's Creed III
+![Assassin&#39;s_Creed_III_Game_Cover](https://github.com/user-attachments/assets/a6f3ea68-f2ff-4f2d-9495-d5beeae25e3f)
 
 **Release Date:** October 30, 2012
-***
+
 **Platforms:**
   - Playstation 3
   - Xbox 360
