@@ -13,3 +13,5 @@
 **Player Characters:**
   -  Bayek of Siwa (Assassin ancestor)
   -  Layla Hassan (descendant)
+***
+[Home](README.md)
