@@ -1,7 +1,9 @@
 # Assassin's Creed Valhalla
+![Assassin&#39;s_Creed_Valhalla_cover](https://github.com/user-attachments/assets/1a1d24b0-812b-45d6-8738-ba4afc4bae8b)
+<br>(Cover art featuring the male version of Eivor)
 
 **Release Date:** November 10, 2020
-***
+
 **Platforms:**
   - Playstation 4
   - Playstation 5
