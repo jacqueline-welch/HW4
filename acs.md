@@ -1,7 +1,8 @@
 # Assassin's Creed Syndicate
+![Assassin&#39;s_Creed_Syndicate_cover](https://github.com/user-attachments/assets/7b9899e3-5645-4777-8ebd-05dc86abc3ef)
 
 **Release Date:** October 23, 2015
-***
+
 **Platforms:**
   - Playstation 4
   - Xbox One
