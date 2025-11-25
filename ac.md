@@ -1,1 +1,15 @@
 # Assassin's Creed
+
+**Release Date:** November 13, 2007
+***
+**Platforms:**
+  - Playstation 3
+  - Xbox 360
+  - Microsoft Windows
+  - GeForce NOW
+
+**Setting:** 1191 CE, The Holy Land during the Third Crusade, primarily in the cities of Masyaf, Jerusalem, Acre, and Damascus.
+
+**Player Characters:**
+  -  Altaïr Ibn-La'Ahad (Assassin ancestor)
+  -  Desmond Miles (descendant)
