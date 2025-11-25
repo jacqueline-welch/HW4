@@ -11,4 +11,5 @@
 **Setting:** Paris, France, during the French Revolution from 1789 to 1794
 
 **Player Characters:**
-  -  Arno Dorian (Assassin ancestor)
+  -  Arno Dorian
+  -  "The Initiate" / [Helix](helix.md) player
