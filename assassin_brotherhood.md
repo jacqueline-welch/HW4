@@ -1,4 +1,6 @@
 # Assassin Brotherhood
+<img width="3840" height="2160" alt="Assassins-Creed-Logo" src="https://github.com/user-attachments/assets/74934217-4702-4559-8fd8-66454582e282" />
+
 
 The *Assassin's Creed* series portrays a heavily fictionalized Ḥashshāshīn order, which really existed as a Nizari Isma'ili religious order that existed between 1090 and 1275 BCE and lived in mountain castles in Persia and the Levant. They killed hundreds who were considered leading enemies of the Nizari Isma'ili state. The modern term assassination is believed to stem from the tactics used by the Assassins.
 
