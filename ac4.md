@@ -15,5 +15,5 @@
 **Setting:** The West Indies during the Golden Age of Piracy from 1715 to 1722, including the locations of Havana, Nassau, and Kingston.
 
 **Player Characters:**
-  -  Edward Kenway (Assassin ancestor)
+  -  Edward Kenway
   -  "Noob" / [Abstergo](abstergo.md) researcher
