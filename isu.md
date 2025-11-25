@@ -4,6 +4,9 @@
 > Minerva: "No. Not gods. We simply came... before."<br>
 > —Ezio Auditore and Minerva, on the nature of the Isu, 1499.
 
+![Trio_1](https://github.com/user-attachments/assets/99d593f3-b132-465b-8075-8b49ca76f799)
+*(A screenshot from one of the games depicting three representatives of the Isu: Juno, Minerva, and Jupiter)*
+
 The Isu are an ancient and highly-advanced species of humanoid beings who were active on Earth during the eponymous era several millennia before the rise of even the most ancient human civilizations. The Isu were responsible for the creation of the [Pieces of Eden](pieces_of_eden.md), powerful artifacts and weapons that augmented their already-superhuman abilities, as well as forming the human race itself.
 
 Their history shrouded in mystery, the Isu ruled over Earth roughly 77,000 years ago before they were largely wiped out, alongside many of their human creations, during the Great Catastrophe. By that point, the Isu had been in a decade-long war with a human rebellion led by two hybrids, Adam and Eve, who sought to free humanity from servitude to their "gods".
