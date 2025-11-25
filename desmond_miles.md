@@ -1,4 +1,5 @@
 # Desmond Miles
+![BH-Mesmond_Blade](https://github.com/user-attachments/assets/fd89b889-767d-4aa5-946f-b5ce4c7099ee)
 
 Desmond Miles (13 March 1987 - 21 December 2012) is the protagonist of five [*Assassin's Creed*](README.md) installments, with his journey uniting the frame story of the first five installments. He is a descendant of a long line of important characters, including Altaïr Ibn-La'Ahad, Ezio Auditore da Firenze, Edward Kenway, and Ratonhnhaké:ton / Connor, who were all members of the [Assassin Brotherhood](assassin_brotherhood.md), a fictional organization inspired by the real-life Order of Assassins that is dedicated to safeguarding peace and freedom.
 
