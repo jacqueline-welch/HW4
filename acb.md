@@ -1,7 +1,8 @@
 # Assassin's Creed: Brotherhood
+![Assassins_Creed_brotherhood_cover](https://github.com/user-attachments/assets/d42cf101-8147-425e-87ce-bbee43ce074b)
 
 **Release Date:** November 16, 2010
-***
+
 **Platforms:**
   - Playstation 3
   - Xbox 360
