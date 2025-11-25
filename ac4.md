@@ -1,7 +1,8 @@
 # Assassin's Creed IV: Black Flag
+![Assassin&#39;s_Creed_IV_-_Black_Flag_cover](https://github.com/user-attachments/assets/4886808f-56f1-458e-91a8-74f456386fe0)
 
 **Release Date:** October 29, 2013
-***
+
 **Platforms:**
   - Playstation 3
   - Xbox 360
