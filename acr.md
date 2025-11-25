@@ -1,7 +1,8 @@
 # Assassin's Creed: Revelations
+![Assassins_Creed_Revelations_Cover](https://github.com/user-attachments/assets/afcd9d59-bb30-4449-99de-4327296cdc6f)
 
 **Release Date:** November 15, 2011
-***
+
 **Platforms:**
   - Playstation 3
   - Xbox 360
