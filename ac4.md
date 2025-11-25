@@ -16,3 +16,4 @@
 
 **Player Characters:**
   -  Edward Kenway (Assassin ancestor)
+  -  "Noob" / [Abstergo](abstergo.md) researcher
