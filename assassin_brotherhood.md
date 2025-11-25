@@ -5,3 +5,5 @@ The *Assassin's Creed* series portrays a heavily fictionalized Ḥashshāshīn o
 The first game is more closely tied to this real order, but there are still liberties taken. The games that follow mostly focus on the Assassin Brotherhood as its own seperate group. In fact, in [*Assassin's Creed Origins*](ac_origins.md), it is shown that the Assassin Brotherhood originated in Egypt under the Ptolemaic dynasty. 
 
 The Brotherhood is seen as a secret group who fight for peace and free will, and who oppose the [Templar Order](templar_order.md) who seek to control humanity and gain power. To do this, the Assassins train and ultimately hunt down members of the Templar Order who are corrupt and villainous individuals, often familiar historical figures such as members of the Borgia family. In most games, the Brotherhood seeks to find [Pieces of Eden](pieces_of_eden.md) so that they don't fall into the hands of the Templar Order to be used for their nefarious goals.
+***
+[Home](README.md)
