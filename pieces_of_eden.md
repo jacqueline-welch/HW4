@@ -1,4 +1,7 @@
 # Pieces of Eden
+![Treasure_Hunter%27s_Apple](https://github.com/user-attachments/assets/7ef0450a-9d98-4b8d-a6d9-726690c41a15)
+<br> *This is one of several Apples of Eden, which is a type of Piece of Eden. These are seen in many different games in the series and are shown to have the power to manipulate and control the minds of people.*
+***
 
 A Piece of Eden is a type of sophisticated technology created by the [Isu](isu.md). Named after the Isu's city of Eden, where they kept early humanity as slaves and which later free humans would mythologize as a paradisal garden where they had regular contact with the divine, the Pieces vary greatly in design and function, with some serving more mundane uses than others.
 
