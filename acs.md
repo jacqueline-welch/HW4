@@ -13,3 +13,4 @@
 **Player Characters:**
   -  Jacob and Evie Frye
   -  Lydia Frye
+  -  "The Initiate" / [Helix](helix.md) player
