@@ -15,4 +15,5 @@
 **Setting:** The main plot is set before and during the French and Indian War from 1752 to 1760 and features three main areas: the western North Atlantic (around the Gulf of Saint Lawrence), the fictional River Valley (partly inspired by the Hudson Valley), and New York City.
 
 **Player Characters:**
-  -  Shay Patrick Cormac (Assassin ancestor)
+  -  Shay Patrick Cormac
+  -  "Numbskull" / [Helix](helix.md) researcher
