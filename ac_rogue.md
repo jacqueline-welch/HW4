@@ -1,7 +1,8 @@
 # Assassin's Creed Rogue
+![Assassin&#39;s_Creed_Rogue](https://github.com/user-attachments/assets/c5a9570d-7f70-41dd-b1c0-e2196b32fad1)
 
 **Release Date:** November 11, 2014
-***
+
 **Platforms:**
   - Playstation 3
   - Xbox 360
