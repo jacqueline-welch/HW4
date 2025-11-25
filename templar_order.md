@@ -1,4 +1,5 @@
 # Templar Order
+![templars_insignia](https://github.com/user-attachments/assets/443ceff7-7c34-42bb-a9c9-685a4b435368)
 
 The Templar Order, also known as the Order of the Knights Templar or the Poor Fellow-Soldiers of Christ and the Temple of Solomon, is a secret transnational organization which for thousands of years has striven to seize control of humanity in the name of uplifting their condition and inaugurating lasting, world peace. Their vision of a perfect, global society, which they term the New World Order, is one which entails a world government under their dominion, whether directly imposed or in the form of a shadow regime manipulating states and society from behind-the-scenes.
 
